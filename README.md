@@ -69,6 +69,15 @@ PROYECTO_FINAL/
 
 📊 *Notebook:* `04_EDA_final.ipynb`
 
+#### 🧮 Dataframes de Apoyo (EDA)
+
+Durante el análisis se generaron varios **dataframes de trabajo** para profundizar en la exploración de los datos.  
+Estos incluían métricas agregadas, análisis de devoluciones, comportamiento por categorías y segmentación por método de envío.  
+
+> 🔍 **Importante:**  
+> Aunque aportaron valor al análisis descriptivo y permitieron validar insights, **no fueron utilizados directamente en el Dashboard final**, ya que su propósito fue exclusivamente analítico dentro del notebook `04_EDA_final.ipynb`.
+
+
 > 📘 **Librerías utilizadas:**  
 > `pandas`, `numpy`, `matplotlib`, `seaborn`, `plotly`, `warnings`, `os`, `pathlib`.
 
